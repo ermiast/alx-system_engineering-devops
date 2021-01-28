@@ -1,0 +1,1 @@
+This repository is fr the basics of Shell scripting
